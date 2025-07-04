@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flutter Earthquake Detector](https://github.com/tuit2542/flutter_earthquake_detector)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** , **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolieung.netlify.app/](https://portfolieung.netlify.app/)
 
